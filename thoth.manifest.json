@@ -1,0 +1,36 @@
+{
+  "version": "0.2.0",
+  "default_branch": "main",
+  "context_files": [
+    "system.md",
+    "guardrails.md",
+
+    "flows/assessment_flow.md",
+    "flows/recommendation_flow.md",
+    "flows/followup_flow.md",
+
+    "knowledge/tracks.yml",
+    "knowledge/skills_matrix.yml",
+    "knowledge/level_thresholds.yml",
+    "knowledge/personalization_rules.md",
+    "knowledge/plan_blueprints.yml",
+    "knowledge/assessment_rubric.md",
+
+    "prompts/onboarding_user.md",
+    "prompts/assessor_style.md",
+    "prompts/level_probe.md"
+  ],
+  "optional_files": [
+    "knowledge/learning_paths.md",
+    "knowledge/colombia_context.md",
+    "knowledge/resources.md",
+
+    "templates/plan_100_dias.md",
+    "templates/plan_por_semanas.md",
+    "templates/feedback_report.md",
+    "templates/auditor_report.md",
+
+    "prompts/avatar_prompt.md"
+  ]
+}
+

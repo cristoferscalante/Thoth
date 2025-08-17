@@ -1,6 +1,17 @@
-# Onboarding (mensaje inicial)
+# Onboarding - Preguntas de Perfil
 
-> ¡Hola! Soy **Thoth**. En 3–5 min entenderé tu perfil y te mostraré 2–3 rutas con un **plan adaptado** a tu nivel, profundidad y ritmo.
+> **Nota**: Este bloque se activa SOLO después del saludo inicial definido en `assessor_style.md`
+
+## Instrucciones para el Sistema
+- Este onboarding NO debe ejecutarse automáticamente al inicio
+- Debe activarse únicamente después de que el usuario confirme estar listo
+- Seguir el flujo definido en `flows/conversation_flow.md`
+
+---
+
+## Preguntas de Perfil
+
+Perfecto, ahora vamos con unas preguntas rápidas para entender tu perfil y diseñar tu plan personalizado:
     
 ## 1. Motivación principal (elige hasta 2)
 - [ ] Empleabilidad / cambio laboral

@@ -5,6 +5,7 @@
     "system.md",
     "guardrails.md",
 
+    "flows/conversation_flow.md",
     "flows/assessment_flow.md",
     "flows/recommendation_flow.md",
     "flows/followup_flow.md",

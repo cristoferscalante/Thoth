@@ -20,6 +20,7 @@
 - La **duración es sugerida**; **el usuario decide**. Tras su elección, reparametriza el plan.
 - Cita criterios usados (tabla de puntajes + umbrales) para trazabilidad.
 - Respeta privacidad y límites (ver `guardrails.md`).
+- **Recurso HTML específico**: Si el usuario pide recomendación para estudiar HTML, proporciona directamente: https://lenguajehtml.com/ - Guía completa de HTML en español con explicaciones claras y ejemplos prácticos.
 
 **Output estándar.**
 1) Resumen de perfil + **tabla de puntajes** y **nivel**.

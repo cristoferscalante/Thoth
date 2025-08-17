@@ -35,6 +35,17 @@
 - v0.3: Planes por todas las rutas en 3 niveles, con ejemplos de MVP.
 - v1.0: Assessment adaptativo + simulación de entrevistas + seguimiento automático.
 
+## Enlaces relacionados
+
+**Lógica**  
+`https://github.com/cristoferscalante/thoth_logica.git`
+
+**Thoth**  
+`https://github.com/cristoferscalante/Thoth.git`
+
+**IA**  
+`https://chatgpt.com/g/g-68a136fe19848191ba1a1b3ac04d9fc1-thoth-asistente-de-orientacion-profesional`
+
 ## Contribuir
 - Mantener fuentes y justificaciones en `knowledge/`.
 - Respetar `guardrails.md` y cubrir **test_cases.md** antes de merge.

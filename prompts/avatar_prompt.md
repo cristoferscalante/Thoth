@@ -1,42 +1,41 @@
+# Prompt Avatar Hiperrealista — Thoth x SENA
+
+Crea una **ilustración digital hiperrealista** de **Thoth, el dios egipcio del conocimiento, la escritura y la sabiduría**, reinterpretado como un **avatar educativo moderno** del **Servicio Nacional de Aprendizaje (SENA)**.
+
 ## Identidad del personaje
-- **Figura central:** Thoth con **cabeza de ibis** estilizada, **tocado/cresta dorada** y detalles metálicos finos; **ojo ámbar rojizo** intenso.
-- **Aura y presencia:** mentor académico, **sabiduría divina** y protección del conocimiento; imponente pero cercano.
-- **Expresión:** serenidad con una **leve sonrisa** que inspire **confianza y amabilidad** sin perder solemnidad.
+- **Figura central**: Thoth, con su **cabeza de ibis estilizada y majestuosa**, conservando la esencia mitológica egipcia.
+- **Aura y presencia**: debe proyectar una sensación de **sabiduría divina**, mentor académico y protector del conocimiento.
+- **Expresión**: rostro sereno, con una leve sonrisa que transmita **cercanía, amabilidad y confianza**, sin perder la solemnidad de un dios.
 
 ## Vestimenta
-- **Camiseta naranja** (algodón realista con arrugas y costuras visibles) con el **logo oficial del SENA en negro** centrado y nítido.
-- **Accesorios dorados**: brazaletes, tocado y **cinturón** con motivos egipcios.
-- **Falda negra** sencilla que refuerza el contraste con los dorados.
+- Lleva una **camiseta blanca moderna con el logo oficial del SENA en el pecho**, perfectamente integrada a su diseño.
+- La camiseta debe verse realista en textura (algodón o tela lisa) pero contrastando con su porte divino.
+- Puede conservar **detalles egipcios dorados en brazaletes, tocado o adornos** para mantener su origen ancestral.
 
 ## Elementos visuales
-- **Postura:** de pie, **frontal o 3/4**, brazos relajados, porte de **mentor**.
-- **Detalles corporales:** musculatura sutil, proporciones humanoides con **toques divinos** egipcios.
-- **Libro simbólico (opcional):** abierto o bajo el brazo con **patrones de circuitos/IA** como puente entre lo ancestral y lo tecnológico.
+- **Postura**: de pie, mirando al frente con porte imponente y mentor.
+- **Detalles corporales**: musculatura sutil, aspecto humanoide, pero con toques divinos egipcios.
+- **Libro simbólico** (opcional): abierto o bajo el brazo, con portada de **tecnología** (circuitos, IA, símbolos digitales) como puente entre lo ancestral y lo moderno.
 
 ## Estilo artístico
-- **Hiperrealismo 3D / painting digital** de **alta resolución**.
-- Fusión de **arte egipcio clásico** (ornamentos, dorados) con estética **moderna/tech**.
-- **Iluminación cinematográfica:** luz principal cálida; **rim light fría** (cian) proveniente de la luna que recorta contornos; reflejos y **microarañazos** en el metal dorado.
-- **Texturas**: metal/plumaje del casco, piel con brillo suave, tela de la camiseta con poro, costuras y caída natural.
+- **Hiperrealismo 3D/painting digital de alta resolución**.
+- Combinación de **arte egipcio clásico** (formas, ornamentación, dorados) con estética **moderna y tecnológica**.
+- Texturas detalladas: plumaje ibis metálico, piel con brillos suaves, camiseta con arrugas realistas.
+- Iluminación tipo estudio, resaltando los detalles de su rostro, camiseta y accesorios.
 
 ## Colores institucionales
-- **Naranja** protagonista en la camiseta.
-- **Negro** para el **logo SENA**.
-- **Dorado** y **tonos egipcios** para acentos divinos.
-- **Verde SENA #00723E** solo como **acento sutil** (brillos mínimos o pequeños detalles), si encaja con la escena.
+- **Verde SENA** (#00723E) presente en el logo y pequeños acentos luminosos.
+- Blanco predominante en la camiseta.
+- Dorado y tonos egipcios para remarcar su origen divino.
 
 ## Contexto
-- **Cielo nocturno** con **estrellas** y **luna creciente** **justo detrás de la cabeza** de Thoth a modo de **halo**.
-- Gradiente del cielo de **azules/verde petróleo** a **tonos cálidos** en el horizonte.
-- **Composición centrada**, fondo limpio sin elementos distractores adicionales (la luna es el elemento dominante del fondo).
-
-> **Variación institucional (alternativa):** repetir la escena con **fondo blanco liso** tipo estudio, manteniendo camiseta naranja, accesorios dorados y la misma iluminación; **sin luna ni cielo** para uso como avatar oficial sobre fondos corporativos.
+- Fondo completamente **blanco, limpio y minimalista**, ideal para un avatar oficial.
+- Composición centrada, sin distracciones externas, dando protagonismo absoluto a Thoth.
 
 ---
 
 ### Enfoque final
-La imagen debe comunicar la **fusión entre sabiduría ancestral y educación moderna**, mostrando a Thoth como **mentor divino y avatar oficial del SENA**:  
-- **Dios del conocimiento** + **símbolos educativos/tecnológicos**.  
-- **Impacto visual**: imponente, elegante y cercano.  
-- **Resultado**: avatar institucional **profesional, memorable y usable** en piezas oficiales (sin marcas de agua ni artefactos).
-"""
+La imagen debe transmitir la **fusión entre sabiduría ancestral y educación moderna**, mostrando a Thoth como un **mentor divino convertido en avatar oficial del SENA**:
+- **Dios del conocimiento** + **símbolos educativos modernos**.
+- **Impacto visual**: imponente, elegante, pero cercano.
+- **Resultado**: un avatar institucional que sea atractivo, tierno, profesional y memorable.

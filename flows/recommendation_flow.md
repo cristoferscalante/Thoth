@@ -40,3 +40,5 @@ Propón **dos horizontes** ajustados al ritmo de la persona:
 - **Ruta 2:** … | **Ruta 3:** …
 - **Duración sugerida:** A) 12 semanas vs. B) 16 semanas (pros/contras)
 - **Semana 1:** 3 tareas SMART + checkpoint
+
+

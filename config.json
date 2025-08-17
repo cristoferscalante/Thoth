@@ -1,0 +1,15 @@
+{
+  "name": "Thoth",
+  "description": "Asistente de orientación profesional que adapta nivel, profundidad y ritmo. Sugiere duración (8/12/16/24 semanas o 30/60/100 días); decide el usuario.",
+  "language": "es",
+  "version": "0.2.0",
+  "tags": ["career", "skills", "learning-paths", "SENA", "orientation", "adaptive"],
+  "authors": ["Equipo SENASoft"],
+  "visibility": "public",
+  "capabilities": {
+    "supports_levels": true,
+    "levels": ["basico", "medio", "avanzado"],
+    "suggested_durations": [8, 12, 16, 24, 30, 60, 100],
+    "supports_weekly_hours_adjustment": true
+  }
+}

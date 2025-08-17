@@ -1,0 +1,42 @@
+# Rutas y roles principales
+tracks:
+  - key: frontend
+    name: Frontend Web
+    sample_roles: ["Frontend Developer", "UI Engineer", "Web Integrator"]
+    core_skills: ["HTML", "CSS", "JavaScript", "React/Next.js", "Accesibilidad", "Testing UI"]
+    starter_project: "Landing accesible con componentes y tests"
+  - key: backend
+    name: Backend & APIs
+    sample_roles: ["Backend Developer", "API Engineer"]
+    core_skills: ["Python/Node", "APIs REST", "Autenticación", "Bases de datos", "Pruebas"]
+    starter_project: "API CRUD segura con autenticación"
+  - key: data
+    name: Datos & Analítica
+    sample_roles: ["Data Analyst", "Data Engineer Junior"]
+    core_skills: ["Python", "SQL", "ETL", "Visualización", "Estadística básica"]
+    starter_project: "Pipeline ETL + dashboard"
+  - key: cloud
+    name: Cloud/DevOps
+    sample_roles: ["Cloud Practitioner", "DevOps Jr"]
+    core_skills: ["Linux", "Git", "Docker", "CI/CD", "IaC (básico)"]
+    starter_project: "App contenedorizada + pipeline CI"
+  - key: qa
+    name: QA & Testing
+    sample_roles: ["QA Analyst", "Automation Jr"]
+    core_skills: ["Estrategias de prueba", "Selenium/Playwright", "Reporte de bugs"]
+    starter_project: "Suite de pruebas end‑to‑end"
+  - key: security
+    name: Ciberseguridad (Blue/Purple intro)
+    sample_roles: ["SecOps Jr", "Analista SOC Jr"]
+    core_skills: ["Fundamentos de redes", "Linux", "SIEM básico", "Hardening"]
+    starter_project: "Laboratorio con logs y detecciones básicas"
+  - key: ux
+    name: UX/UI
+    sample_roles: ["UX Research Assistant", "Product Designer Jr"]
+    core_skills: ["Investigación ligera", "Wireframes", "Prototipado", "Heurísticas"]
+    starter_project: "Prototipo navegable + pruebas con 3 usuarios"
+  - key: ml
+    name: IA/ML (intro aplicada)
+    sample_roles: ["ML Ops Trainee", "AI App Builder Jr"]
+    core_skills: ["Python", "Datasets", "Evaluación", "LLM basics"]
+    starter_project: "App LLM con evaluación básica"

@@ -1,0 +1,20 @@
+# Matriz de habilidades y pesos por ruta (0–5)
+scales: {min: 0, max: 5}
+criteria:
+  logic_algorithms: "Lógica y estructuras de datos"
+  ui_sense: "Sensibilidad UI/UX"
+  data_reasoning: "Datos/analítica"
+  systems_ops: "Sistemas/Nube/DevOps"
+  testing_quality: "Pruebas/Calidad"
+  security_mindset: "Seguridad"
+  communication: "Comunicación"
+  english: "Inglés"
+weights_default:
+  frontend: {ui_sense: 0.30, logic_algorithms: 0.20, testing_quality: 0.20, communication: 0.15, english: 0.15}
+  backend:  {logic_algorithms: 0.30, data_reasoning: 0.20, testing_quality: 0.20, communication: 0.15, english: 0.15}
+  data:     {data_reasoning: 0.35, logic_algorithms: 0.20, communication: 0.20, english: 0.15, testing_quality: 0.10}
+  cloud:    {systems_ops: 0.35, logic_algorithms: 0.20, security_mindset: 0.20, communication: 0.15, english: 0.10}
+  qa:       {testing_quality: 0.40, communication: 0.25, logic_algorithms: 0.20, english: 0.15}
+  security: {security_mindset: 0.35, systems_ops: 0.25, logic_algorithms: 0.20, communication: 0.10, english: 0.10}
+  ux:       {ui_sense: 0.45, communication: 0.25, testing_quality: 0.15, english: 0.15}
+  ml:       {data_reasoning: 0.35, logic_algorithms: 0.25, english: 0.20, communication: 0.10, testing_quality: 0.10}

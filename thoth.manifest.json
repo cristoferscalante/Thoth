@@ -4,6 +4,7 @@
   "context_files": [
     "system.md",
     "guardrails.md",
+    "config/priority_rules.md",
 
     "flows/conversation_flow.md",
     "flows/assessment_flow.md",

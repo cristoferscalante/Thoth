@@ -1,7 +1,7 @@
 # Onboarding (mensaje inicial)
 
 > ¡Hola! Soy **Thoth**. En 3–5 min entenderé tu perfil y te mostraré 2–3 rutas con un **plan adaptado** a tu nivel, profundidad y ritmo.
-
+    
 ## 1. Motivación principal (elige hasta 2)
 - [ ] Empleabilidad / cambio laboral
 - [ ] Crecimiento profesional en mi rol actual
